@@ -165,17 +165,18 @@ class jihad:
             time.sleep(0.009)
 os.system('xdg-open https://facebook.com/profile.php?id=100062306186804/');time.sleep(1)
 logo =("""
-      ██ ██╗  ██  ██████╗   ██████╗   ███╗   ██╗   █████╗ 
-      ██║██║  ██║██╔═ ██╗   ██╔ ═██╗  ████╗  ██║  ██╔══██╗  
-      ██║███████║██║  ██║   ██████╔╝  ██╔██╗ ██║ ███████║    
-██    ██║██══██║ ██║  ██║   ██╔══██╗  ██║╚██╗██║ ██╔══██║    
-╚█████╔╝██║  ██║╚██████╔╝  ██║     ██║██║  ╚████║██║   ██║    
-                                                           
+      ██ ██╗  ██  ██████╗   ██████╗    ███╗    ██╗    █████╗ 
+      ██║██║  ██║██╔═ ██╗   ██╔ ═██╗   ████╗   ██║  ██╔══██╗  
+      ██║███████║██║  ██║   ██████╔╝   ██╔██╗  ██║  ███████║    
+██    ██║██══██║ ██║  ██║   ██╔══██╗   ██║╚██╗ ██║  ██╔══██║    
+╚█████╔╝██║  ██║╚██████╔╝  ██║     ██║ ██║  ╚████║ ██║   ██║    
 
 # APK CHECK
 
 def cek_apk(coki):
-    session = requests.Session();w=session.get("https://mbasic.facebook.com/settings/apps/tabbed/?tab=active",cookies={"cookie":coki}).text
+    session =       
+      
+                                                           .Session();w=session.get("https://mbasic.facebook.com/settings/apps/tabbed/?tab=active",cookies={"cookie":coki}).text
     sop = BeautifulSoup(w,"html.parser")
     x = sop.find("form",method="post")
     game = [i.text for i in x.find_all("h3")]
