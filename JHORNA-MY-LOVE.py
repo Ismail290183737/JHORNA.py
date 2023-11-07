@@ -59,7 +59,7 @@ ta = current.year
 bu = current.month
 ha = current.day
 today = date.today()
-os.system('www.facebook.com/profile.php?id=100062306186804&mibextid=ZbWKwL)
+os.system('www.facebook.com/profile.php?id=100062306186804&mibextid=ZbWKwL/')
 logo =("""
 		 	██╗	██╗  ██╗   ██████╗   ██████╗ ███╗   	 ██╗  █████╗     
 			 ██║	██║  ██║  ██╔═ ██╗   ██╔ ═██╗████╗     ██║██╔══██╗ 
