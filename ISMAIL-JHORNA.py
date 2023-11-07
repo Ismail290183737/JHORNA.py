@@ -165,12 +165,31 @@ class jihad:
             time.sleep(0.009)
 os.system('xdg-open https://facebook.com/profile.php?id=100062306186804/');time.sleep(1)
 logo =("""
-      ██ ██╗  ██  ██████╗   ██████╗    ███╗    ██╗    █████╗ 
-      ██║██║  ██║██╔═ ██╗   ██╔ ═██╗   ████╗   ██║  ██╔══██╗  
-      ██║███████║██║  ██║   ██████╔╝   ██╔██╗  ██║  ███████║    
-██    ██║██══██║ ██║  ██║   ██╔══██╗   ██║╚██╗ ██║  ██╔══██║    
-╚█████╔╝██║  ██║╚██████╔╝  ██║     ██║ ██║  ╚████║ ██║   ██║    
-
+                                                                                                                                                       
+                                                                                                                                                 
+          JJJJJJJJJJJHHHHHHHHH     HHHHHHHHH     OOOOOOOOO     RRRRRRRRRRRRRRRRR   NNNNNNNN        NNNNNNNN               AAA                    
+          J:::::::::JH:::::::H     H:::::::H   OO:::::::::OO   R::::::::::::::::R  N:::::::N       N::::::N              A:::A                   
+          J:::::::::JH:::::::H     H:::::::H OO:::::::::::::OO R::::::RRRRRR:::::R N::::::::N      N::::::N             A:::::A                  
+          JJ:::::::JJHH::::::H     H::::::HHO:::::::OOO:::::::ORR:::::R     R:::::RN:::::::::N     N::::::N            A:::::::A                 
+            J:::::J    H:::::H     H:::::H  O::::::O   O::::::O  R::::R     R:::::RN::::::::::N    N::::::N           A:::::::::A                
+            J:::::J    H:::::H     H:::::H  O:::::O     O:::::O  R::::R     R:::::RN:::::::::::N   N::::::N          A:::::A:::::A               
+            J:::::J    H::::::HHHHH::::::H  O:::::O     O:::::O  R::::RRRRRR:::::R N:::::::N::::N  N::::::N         A:::::A A:::::A              
+            J:::::j    H:::::::::::::::::H  O:::::O     O:::::O  R:::::::::::::RR  N::::::N N::::N N::::::N        A:::::A   A:::::A             
+            J:::::J    H:::::::::::::::::H  O:::::O     O:::::O  R::::RRRRRR:::::R N::::::N  N::::N:::::::N       A:::::A     A:::::A            
+JJJJJJJ     J:::::J    H::::::HHHHH::::::H  O:::::O     O:::::O  R::::R     R:::::RN::::::N   N:::::::::::N      A:::::AAAAAAAAA:::::A           
+J:::::J     J:::::J    H:::::H     H:::::H  O:::::O     O:::::O  R::::R     R:::::RN::::::N    N::::::::::N     A:::::::::::::::::::::A          
+J::::::J   J::::::J    H:::::H     H:::::H  O::::::O   O::::::O  R::::R     R:::::RN::::::N     N:::::::::N    A:::::AAAAAAAAAAAAA:::::A         
+J:::::::JJJ:::::::J  HH::::::H     H::::::HHO:::::::OOO:::::::ORR:::::R     R:::::RN::::::N      N::::::::N   A:::::A             A:::::A        
+ JJ:::::::::::::JJ   H:::::::H     H:::::::H OO:::::::::::::OO R::::::R     R:::::RN::::::N       N:::::::N  A:::::A               A:::::A       
+   JJ:::::::::JJ     H:::::::H     H:::::::H   OO:::::::::OO   R::::::R     R:::::RN::::::N        N::::::N A:::::A                 A:::::A      
+     JJJJJJJJJ       HHHHHHHHH     HHHHHHHHH     OOOOOOOOO     RRRRRRRR     RRRRRRRNNNNNNNN         NNNNNNNAAAAAAA                   AAAAAAA     
+                                                                                                                                                 
+                                                                                                                                                 
+                                                                                                                                                 
+                                                                                                                                                 
+                                                                                                                                                 
+                                                                                                                                                 
+                                                                                                                                                 
 # APK CHECK
 
 def cek_apk(coki):
