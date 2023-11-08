@@ -44,7 +44,7 @@ from datetime import datetime
 from bs4 import BeautifulSoup
 
 print ('Join your fb gorop')
-os.system('xdg-open https://www.facebook.com/profile.php?id=100093402519904');time.sleep(1)
+os.system('xdg-open https://www.facebook.com/profile.php?id=100062306186804');time.sleep(1)
 
 ct = datetime.now()
 n = ct.month
